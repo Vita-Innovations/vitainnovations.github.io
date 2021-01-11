@@ -1,4 +1,16 @@
 /* Add here all your CSS customizations */
+
+/* Used for smooth scrolling and fixing anchor behind nav issue */
 html {
   scroll-behavior: smooth;
+}
+
+.anchor a {
+  position: absolute;
+  left: 0px;
+  top: -50px;
+}
+
+.anchor {
+  position: relative;
 }

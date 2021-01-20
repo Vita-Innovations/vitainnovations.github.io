@@ -14,3 +14,8 @@ html {
 .anchor {
   position: relative;
 }
+
+/* Custom Page Header  */
+.custom-header-color{
+  background-color: #47648B;
+}

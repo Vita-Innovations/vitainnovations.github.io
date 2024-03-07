@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	background-color: #FFF;
+	background-color: #12002a;
 	color: #777;
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 14px;
@@ -24,7 +24,7 @@ body a {
 }
 
 .body {
-	background-color: #FFF;
+	background-color: #12002a;
 }
 
 html.safari:not(.no-safari-overflow-x-fix) .body {
@@ -128,11 +128,11 @@ li {
 }
 
 #header .header-column.header-column-border-right {
-	border-right: 1px solid rgba(0, 0, 0, 0.06);
+	border-right: 1px solid rgba(238, 238, 238, 0.06);
 }
 
 #header .header-column.header-column-border-left {
-	border-left: 1px solid rgba(0, 0, 0, 0.06);
+	border-left: 1px solid rgba(211, 211, 211, 0.06);
 }
 
 #header .header-column .header-row {

@@ -11,7 +11,8 @@ html {
 }
 
 body {
-	background-color: #08002f;
+	background-color: #000633;
+	/* #08002f; */
 	color: #777;
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 14px;
@@ -24,7 +25,8 @@ body a {
 }
 
 .body {
-	background-color: #08002f;
+	background-color: #000633;
+	/* #08002f; */
 }
 
 html.safari:not(.no-safari-overflow-x-fix) .body {

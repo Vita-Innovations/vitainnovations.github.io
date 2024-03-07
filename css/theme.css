@@ -751,7 +751,7 @@ li {
 #header .header-nav-features .header-nav-features-cart .mini-products-list li .product-details a {
 	letter-spacing: 0.005em;
 	font-weight: 600;
-	color: #696969;
+	color: #ffffff;
 }
 
 #header .header-nav-features .header-nav-features-cart .mini-products-list li .product-details .product-name {
@@ -6213,7 +6213,7 @@ html.dark .text-muted {
 }
 
 #footer .footer-ribbon span {
-	color: #000000;
+	color: #ffffff;
 	font-size: 1.6em;
 	font-family: "Shadows Into Light", cursive;
 }

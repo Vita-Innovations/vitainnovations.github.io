@@ -11,9 +11,9 @@ html {
 }
 
 body {
-	background-color: #000633;
+	background-color: #000000;
 	/* #08002f; */
-	color: #777;
+	color: #000000;
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 14px;
 	line-height: 26px;
@@ -25,7 +25,7 @@ body a {
 }
 
 .body {
-	background-color: #000633;
+	background-color: #01071a;
 	/* #08002f; */
 }
 
@@ -670,11 +670,11 @@ li {
 }
 
 #header .header-nav-features .header-nav-features-dropdown.header-nav-features-dropdown-dark {
-	background: #212529;
+	background: #0a0a0a;
 }
 
 #header .header-nav-features .header-nav-features-dropdown.header-nav-features-dropdown-dark:before {
-	border-bottom-color: #212529;
+	border-bottom-color: #000000;
 }
 
 #header .header-nav-features .header-nav-features-cart {
@@ -753,7 +753,7 @@ li {
 #header .header-nav-features .header-nav-features-cart .mini-products-list li .product-details a {
 	letter-spacing: 0.005em;
 	font-weight: 600;
-	color: #ffffff;
+	color: #000000;
 }
 
 #header .header-nav-features .header-nav-features-cart .mini-products-list li .product-details .product-name {
@@ -1160,7 +1160,7 @@ li {
 }
 
 #header.header-dark .header-body {
-	background: #212529;
+	background: #000000;
 }
 
 #header.header-dark .header-body .header-nav.header-nav-links-side-header nav > ul > li > a {
@@ -1308,7 +1308,7 @@ html:not(.sticky-header-active) #header.header-transparent-dark-bottom-border-1 
 	}
 
 	html #header.header-transparent .header-body.bg-dark .header-nav-main:before, html #header.header-transparent .header-body.bg-color-dark .header-nav-main:before {
-		background-color: #212529;
+		background-color: #000000;
 	}
 
 	html #header.header-transparent .header-nav-main:before {
@@ -1737,7 +1737,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	}
 
 	#header .header-nav-main.header-nav-main-dark nav > ul > li > a {
-		color: #444;
+		color: #080808;
 	}
 
 	#header .header-nav-main.header-nav-main-slide nav > ul > li > a {
@@ -2197,11 +2197,11 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	}
 
 	#header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown li a {
-		border-bottom-color: #2a2a2a;
+		border-bottom-color: #000000;
 	}
 
 	#header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu {
-		background: #1e1e1e;
+		background: #000000;
 		margin-top: 0;
 	}
 
@@ -2210,7 +2210,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	}
 
 	#header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu > li:hover > a, #header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu > li:focus > a, #header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu > li:active > a, #header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu > li.active > a, #header .header-nav.header-nav-dropdowns-dark nav > ul > li.dropdown .dropdown-menu > li.open > a {
-		background: #282828;
+		background: #000000;
 		color: #FFF;
 	}
 
@@ -6221,7 +6221,7 @@ html.dark .text-muted {
 }
 
 #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-	color: #FFF;
+	color: #000000;
 }
 
 #footer a:not(.btn):not(.no-footer-css) {
@@ -6489,7 +6489,7 @@ html.dark .text-muted {
 }
 
 #footer .footer-bg-color-2 {
-	background: #1c2023;
+	background: #000000;
 }
 
 #footer .footer-copyright {
@@ -6523,7 +6523,7 @@ html.dark .text-muted {
 }
 
 #footer .footer-copyright p {
-	color: #ffffff;
+	color: #090909;
 	margin: 0;
 	padding: 0;
 	font-size: 0.9em;

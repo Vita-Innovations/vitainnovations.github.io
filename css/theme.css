@@ -6811,7 +6811,7 @@ html.dark .tabs-primary.tabs-bottom .nav-tabs li a:hover,
 html.dark .tabs-primary.tabs-bottom .nav-tabs li a:focus, html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a,
 html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a:hover,
 html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a:focus {
-	border-top-color: #0048c6 !important;
+	border-top-color: #060d28 !important;
 }
 
 html.dark .nav-tabs li.active a,
@@ -6933,7 +6933,7 @@ html.dark form.form-style-4 .form-control {
 
 html.dark .btn-light {
 	background-color: #2c3237;
-	border-color: #2c3237;
+	border-color: #1a4161;
 	color: #FFF;
 }
 

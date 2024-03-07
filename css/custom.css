@@ -24,3 +24,7 @@ html {
 /* .custom-footer-ribbon{
   background-color: #f3f3f3;
 } */
+
+.border {
+	box-shadow: 0 0 0 5px #ffffff;
+}

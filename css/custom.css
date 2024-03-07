@@ -18,5 +18,9 @@ html {
 /* Custom Page Header  */
 .custom-header-color{
   /* background-color: #47648B; */
+  background-color: #d5d5d5;
+}
+
+.custom-footer-ribbon{
   background-color: #12002a;
 }

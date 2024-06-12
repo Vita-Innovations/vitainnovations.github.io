@@ -17,5 +17,14 @@ html {
 
 /* Custom Page Header  */
 .custom-header-color{
-  background-color: #47648B;
+  /* background-color: #47648B; */
+  background-color: #c0bfbf;
+}
+
+/* .custom-footer-ribbon{
+  background-color: #f3f3f3;
+} */
+
+.border { 
+  border-color: #c1ddff;
 }

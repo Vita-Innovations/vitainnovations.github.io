@@ -15339,11 +15339,10 @@ html.boxed section.video > div:first-child video {
 
 .word-rotator.rotate-1 b.is-visible {
 	opacity: 1;
-	transform: rotateX(0deg);
-	-webkit-animation: word-rotator-rotate-1-in 1.2s;
-	animation: word-rotator-rotate-1-in 1.2s;
-}
-
+	transform: rotateX(0deg); 
+	-webkit-animation: word-rotator-rotate-1-in 1.2s forwards;
+    animation: word-rotator-rotate-1-in 1.2s forwards;
+}  
 .word-rotator.rotate-1 b.is-hidden {
 	transform: rotateX(180deg);
 	-webkit-animation: word-rotator-rotate-1-out 1.2s;

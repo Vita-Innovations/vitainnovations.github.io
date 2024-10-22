@@ -1875,7 +1875,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		height: 136px;
 		min-height: 0;
 	}
-
+	
 	#header .header-nav-main a:hover > .thumb-info-preview {
 		transform: translate3d(0, 0, 0);
 		top: 0;
@@ -6811,7 +6811,7 @@ html.dark .tabs-primary.tabs-bottom .nav-tabs li a:hover,
 html.dark .tabs-primary.tabs-bottom .nav-tabs li a:focus, html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a,
 html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a:hover,
 html.dark .tabs-primary.tabs-bottom .nav-tabs.nav-justified li a:focus {
-	border-top-color: #060d28 !important;
+	border-top-color: #23252b !important;
 }
 
 html.dark .nav-tabs li.active a,
@@ -7727,4 +7727,12 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body .container-fluid {
 	padding-left: 25px;
 	padding-right: 25px;
+}
+
+.image-container {
+	display: flex;
+}
+.image-container img {
+	width: 33.33%; 
+	height: auto;
 }

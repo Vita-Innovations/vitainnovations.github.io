@@ -14167,8 +14167,8 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	font-size: 0.6em;
 	font-weight: 600;
 	letter-spacing: 0;
-	margin: 8px -2px -15px 0px;
-	padding: 2px 12px;
+	margin: 8px -10px -15px 0px;
+	padding: 2px 5px;
 	text-transform: uppercase;
 	z-index: 2;
 	line-height: 2.3;

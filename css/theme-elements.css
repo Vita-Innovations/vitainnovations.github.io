@@ -14144,6 +14144,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	font-weight: normal;
 }
 
+
 .thumb-info .thumb-info-title {
 	transition: all 0.3s;
 	background: rgba(33, 37, 41, 0.8);
@@ -14155,7 +14156,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	z-index: 2;
 	max-width: 90%;
 	font-size: 17px;
-	padding: 13px 21px 2px;
+	padding: 4px 21px 2px;
 	bottom: 13%;
 }
 
@@ -14167,7 +14168,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	font-size: 0.6em;
 	font-weight: 600;
 	letter-spacing: 0;
-	margin: 8px -10px -15px 0px;
+	margin: 2px -10px -15px 0px;
 	padding: 2px 5px;
 	text-transform: uppercase;
 	z-index: 2;

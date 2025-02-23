@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vitainnovations.co",
+  "Id": "d10eb06d-3dcc-41d8-ae58-d334adbf463f"
+}

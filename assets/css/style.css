@@ -7012,11 +7012,13 @@
 
 .team-detail_image-column{
 	position: relative;
-	margin-bottom: 30px;
+	margin-bottom: 30px; 
 }
 
 .team-detail_image-outer{
 	position: relative;
+	/* width: 100%;         /* Make the container take full width of its parent */
+    /* height: 100%;  */
 }
 
 .team-detail_image{
@@ -7024,7 +7026,16 @@
 	border-radius: 8px;
 	overflow: hidden;
 	display: inline-block;
+	width: 100%;         
+    height: 100%; 
 }
+
+.team-detail_image img {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;   /* Ensure the image covers the container without stretching */
+}
+
 
 .team-detail_content-column{
 	position: relative;

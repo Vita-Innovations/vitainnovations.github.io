@@ -902,9 +902,9 @@ img{
 
 .sec-title_heading span{
 	position: relative;
-	font-style: italic;
+	/* font-style: italic; */
 	display: inline-block;
-	font-family: 'Lora', serif;
+	font-family: 'Inter', sans-serif;
 	color: var(--main-color);
 	/* text-transform: lowercase; */
 }
@@ -1049,9 +1049,9 @@ img{
 
 .sec-title.style-four .sec-title_heading span{
 	color: var(--main-color);
-	font-style: italic;
+	/* font-style: italic; */
     display: inline-block;
-    font-family: 'Lora', serif;
+    font-family: 'Inter', sans-serif;
     /* text-transform: lowercase; */
 }
 

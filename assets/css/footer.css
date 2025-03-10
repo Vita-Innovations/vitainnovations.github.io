@@ -43,6 +43,7 @@
 }
 
 .footer-newsletter{
+	height: 250px;
 	position: relative;
 	padding: 34px 35px;
 	border-radius: 8px;
